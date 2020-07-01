@@ -6,7 +6,7 @@
             "type": "endpoint",
             "appId": "",
             "appPassword": "",
-            "endpoint": "http://localhost:3978/api/messages",
+            "endpoint": "https://solizehandsoff.azurewebsites.net/api/messages",
             "id": "1",
             "name": "development"
         }
