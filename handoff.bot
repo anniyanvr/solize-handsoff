@@ -1,0 +1,18 @@
+{
+    "name": "handoff",
+    "description": "",
+    "services": [
+        {
+            "type": "endpoint",
+            "appId": "",
+            "appPassword": "",
+            "endpoint": "http://localhost:3978/api/messages",
+            "id": "1",
+            "name": "development"
+        }
+    ],
+    "padlock": "I39KJxGYvRF38Wiif3k4ww==!XEMyBYQhswGI1MOm8lxZeZLPXQugvs+PK5/WmMKDjM7lFanhMuSv1Hgnaux2C5St",
+    "version": "2.0",
+    "path": "E:\\chat-bot\\botframework-human-handoff\\handoff.bot",
+    "overrides": null
+}
