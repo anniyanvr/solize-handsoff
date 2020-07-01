@@ -13,6 +13,6 @@
     ],
     "padlock": "I39KJxGYvRF38Wiif3k4ww==!XEMyBYQhswGI1MOm8lxZeZLPXQugvs+PK5/WmMKDjM7lFanhMuSv1Hgnaux2C5St",
     "version": "2.0",
-    "path": "E:\\chat-bot\\botframework-human-handoff\\handoff.bot",
+    "path": "./handoff.bot",
     "overrides": null
 }
